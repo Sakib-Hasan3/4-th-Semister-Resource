@@ -1,0 +1,14 @@
+
+Triple 3-Input OR 74x4075----1 ta - 
+HEF4013BP D flip flop -- 1ta -- (74LS74  Dual D-type Flip Flops with Preset and Clear)
+
+
+
+
+
+4 to 1 line multiplexer   74x153-----3 ta
+2 to 1 line multiplexer   74x157-----1 ta
+74HC138 3 to 8 Decoder/Demultiplexer----1 ta
+8-to-3 bit priority encoder  74LS148 ---1ta
+
+

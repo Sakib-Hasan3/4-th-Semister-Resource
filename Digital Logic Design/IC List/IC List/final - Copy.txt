@@ -1,0 +1,21 @@
+74x32 Quad 2-input OR-----2 ta -
+Triple 3-Input OR 74x4075----1 ta - 
+74x08 Quad 2-input AND-----2 ta - 
+Triple 3-Input AND 74x11----1 ta - 
+Triple 3-Input NOR 74x27----1 ta - 
+74x7266 XNOR----2 ta - 
+1 digit 7 segment led - 
+
+
+JK flip flip  master slave SN74LS76 - 1 ta - 
+4 bit bcd adder 74LS83 ----3 ta - 
+T flip flop  -- 1 ta --  (JK flip flop with reset SN74x73A
+HEF4013BP D flip flop -- 1ta --  (74LS74  Dual D-type Flip Flops with Preset and Clear)
+
+
+4 to 1 line multiplexer   74x153-----3 ta
+2 to 1 line multiplexer   74x157-----1 ta
+74HC138 3 to 8 Decoder/Demultiplexer----1 ta
+8-to-3 bit priority encoder  74LS148 ---1ta
+
+

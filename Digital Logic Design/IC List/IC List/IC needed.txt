@@ -1,0 +1,67 @@
+X- HC/LS
+
+edi lagbo----
+
+74x32 Quad 2-input OR-----2 ta
+Triple 3-Input OR 74x4075----1 ta
+
+74x08 Quad 2-input AND-----2 ta
+Triple 3-Input AND 74x11----1 ta
+
+Triple 3-Input NOR 74x27----1 ta
+
+74x7266 XNOR----2 ta
+
+1 digit 7 segment led
+----------------------------------------------------------------------
+
+edi ase------
+
+Triple 3-Input NAND 74x10----7 ta ase
+
+NOT 74HC04---5 ta
+
+74HC86 XOR-----4 ta
+
+74x02 Quad 2-input NOR-----11 ta
+
+74x00 Quad 2-input NAND----8 ta
+
+74x32 Quad 2-input OR-----3 ta
+
+74x08 Quad 2-input AND-----3 ta
+
+bcd to 7 srgment decoder ----- 1 ta
+
+------------------------
+
+
+edi lagte pare----
+
+4 to 1 line multiplexer   74x153-----3 ta
+
+2 to 1 line multiplexer   74x157-----1 ta
+
+
+74HC138 3 to 8 Decoder/Demultiplexer----1 ta
+8-to-3 bit priority encoder  74LS148
+
+ 
+
+JK flip flop with reset SN74x73A
+JK flip flip  master slave SN74LS76
+
+74L71	AND-gated R-S master-slave flip-flop, preset and clear
+
+74LS74	Dual D-type Flip Flops with Preset and Clear
+
+
+4 bit bcd adder 74LS83 ----3 ta
+
+
+
+
+
+
+
+
