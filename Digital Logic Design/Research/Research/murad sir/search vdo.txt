@@ -1,0 +1,45 @@
+all conversion 
+
+decimal num r opor name base of radix 10
+erokom radix - 7 radix - 8 base ase 
+
+=================
+
+1s compliment 
+10s 
+2s
+9s
+9s & 10s r difference
+
+======================
+
+substraction with r's compliment (10s , 2s)
+small num thika big num biyog
+big thika small
+
+reflected code
+
+operator precedence ( parahtesis,NOT, AND, OR)
+
+ven diagram
+
+implimentation of boolen function with gate( boi dia porte koise ) eda star mara
+
+compliment of function ( edao boi)
+
+k-map
+
+===================================
+
+k-map another name Veitch diagram
+5 porjonto variable nia k-map
+
+dont care condition a simplyfy vinno hote pare
+
+
+tabular/mc clasky method ( match pair mane jei jagay sudu 1 ta jagay omil thakbo oida)
+https://www.youtube.com/watch?v=qOLv1Cwf6Uw
+
+
+
+
